@@ -47,6 +47,11 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ![image](https://github.com/user-attachments/assets/1a962018-9d6b-4246-ab5f-424602551e87)
 
+Mirror Adder:
+<img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/0ee001d3-ff9b-4f16-aabc-ed806b0ba812" />
+
+
+
 
 
 ## Output
